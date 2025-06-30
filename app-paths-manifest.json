@@ -1,0 +1,6 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/daftar-online/page": "app/daftar-online/page.js",
+  "/jadwal-dokter/page": "app/jadwal-dokter/page.js",
+  "/layanan/page": "app/layanan/page.js"
+}
